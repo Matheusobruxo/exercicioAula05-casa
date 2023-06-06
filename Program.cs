@@ -40,7 +40,7 @@ namespace condicoesAula05Lc
             Console.WriteLine("\nDigite seu Endereço:");
             endereco = Console.ReadLine();
 
-            Console.WriteLine("\nDigite seu Bairro:");
+            Console.WriteLine("\nDigite seu bairro:");
             bairro = Console.ReadLine();
 
             Console.WriteLine("\nDigite sua Cidade:");
